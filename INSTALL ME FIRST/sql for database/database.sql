@@ -1,4 +1,0 @@
-DROP TABLE IF EXISTS `ak47_iceboxv2`;
-CREATE TABLE IF NOT EXISTS `ak47_iceboxv2` (
-  `stock` longtext DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
